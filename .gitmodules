@@ -1,0 +1,3 @@
+[submodule "MTAudio"]
+	path = MTAudio
+	url = https://github.com/jonnijoe1990/MTAudio.git
