@@ -2,5 +2,5 @@
 
 ### Modules: 
 
-- MTAudio 
+- [MTAudio](https://github.com/jonnijoe1990/MTAudio)
 - MTVideo 
