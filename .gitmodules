@@ -1,3 +1,3 @@
-[submodule "MTAudio"]
-	path = MTAudio
-	url = https://github.com/jonnijoe1990/MTAudio.git
+[submodule "MTApp"]
+	path = MTApp
+	url = https://github.com/jonnijoe1990/MTApp
